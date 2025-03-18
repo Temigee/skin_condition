@@ -25,7 +25,7 @@ else:
 
 if img is None:
     st.success(f'''Welcome, please upload or snap your picture to start to check,
-               the supported skin types are clear skin, vitiligo, eczema and boil''')
+               the supported skin types are clear skin, vitiligo, keloid, eczema and boil''')
 else:
     st.divider()
     action = st.button(label = "Analyze Skin")

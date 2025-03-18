@@ -1,0 +1,12 @@
+fastapi[all]
+joblib
+scikit-learn
+python-dotenv
+google-generativeai
+streamlit
+pandas
+numpy
+timm
+utils
+
+seaborn
